@@ -1,0 +1,25 @@
+.Clock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333;
+  }
+  
+  .Clock h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .Clock h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .Clock h1 {
+    font-size: 3rem;
+    margin-top: 1rem;
+  }
+  
